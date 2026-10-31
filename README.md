@@ -1,3 +1,3 @@
 This is a project for creating a hospital dashboard 
-<br
+<br>
 Author - Nihita Jain
